@@ -1,6 +1,6 @@
 # ODS 7 - Energia Limpa e Acessível
 
-Projeto web desenvolvido durante meus estudos em desenvolvimento web, com foco na **ODS 7 da ONU: Energia Limpa e Acessível**.
+Projeto web desenvolvido durante meus estudos de desenvolvimento web, com foco na **ODS 7 da ONU: Energia Limpa e Acessível**.
 
 O objetivo do projeto é apresentar informações sobre fontes de energia renovável, destacando sua importância para a sustentabilidade, inovação e desenvolvimento da sociedade.
 
@@ -73,3 +73,45 @@ ods7-energia-limpa/
 ├── hidreletrica/
 ├── biomassa/
 └── geotermica/
+```
+
+---
+
+## Aprendizados
+
+Durante o desenvolvimento deste projeto, pratiquei conceitos importantes para minha evolução em desenvolvimento web.
+
+Entre os principais aprendizados estão:
+
+- Criação de páginas web com HTML
+- Aplicação de estilos com CSS
+- Organização de um site com várias páginas
+- Uso de JavaScript para interações
+- Construção de conteúdo visual e informativo
+- Organização de pastas e arquivos
+- Versionamento e publicação de projeto no GitHub
+
+---
+
+## Contexto
+
+Este projeto representa uma etapa importante da minha evolução como desenvolvedor.
+
+Ele foi desenvolvido antes de projetos mais completos, como o **EcoAlerta**, e mostra minha base em front-end, organização de páginas e construção de interfaces web.
+
+Hoje, olhando para este projeto, consigo perceber minha evolução desde páginas informativas em HTML, CSS e JavaScript até sistemas mais completos com backend, banco de dados e integração entre camadas.
+
+---
+
+## Status do projeto
+
+Projeto concluído como prática acadêmica e de aprendizado.
+
+---
+
+## Autor
+
+Desenvolvido por João Vitor.
+
+[GitHub](https://github.com/LimpingSCult242)  
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-honorio-1350ab3a8/)
